@@ -1,0 +1,16 @@
+Name of the student : Sourav Bhatt 
+Class Roll of the student : 56 
+Stream of the student : CSEIOTCSBT 
+Your Student ID is : CSEIOTCSBT2256
+
+Marks obtained in Math is : 87 
+Marks obtained in Python is : 89 
+Marks obtained in Physics is : 89 
+Marks obtained in Chemistry is : 89 
+Marks obtained in Biology is : 98 
+Marks obtained in English is : 55 
+
+You have got 507 in total with 84%
+Performance: EXCELLENT. 
+Status: PASSED. 
+Grade: B.

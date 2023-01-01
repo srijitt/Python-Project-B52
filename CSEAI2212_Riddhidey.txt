@@ -1,0 +1,17 @@
+Name of the student : Riddhi dey 
+Class Roll of the student : 12 
+Stream of the student : CSEAI 
+Your Student ID is : CSEAI2212
+
+Marks obtained in Math is : 12 
+Marks obtained in Python is : 12 
+Marks obtained in Physics is : 12 
+Marks obtained in Chemistry is : 13 
+Marks obtained in Biology is : 15 
+Marks obtained in English is : 56 
+
+You have got 120 in total with 20%
+Performance: POOR. 
+Status: FAILED. 
+Grade: F. 
+Remarks: Very Bad

@@ -1,0 +1,16 @@
+Name of the student : Aishi ghosh 
+Class Roll of the student : 14 
+Stream of the student : CSE 
+Your Student ID is : CSE2214
+
+Marks obtained in Math is : 98 
+Marks obtained in Python is : 58 
+Marks obtained in Physics is : 69 
+Marks obtained in Chemistry is : 78 
+Marks obtained in Biology is : 69 
+Marks obtained in English is : 52 
+
+You have got 424 in total with 70%
+Performance: GOOD. 
+Status: PASSED. 
+Grade: C.

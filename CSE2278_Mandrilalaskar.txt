@@ -1,0 +1,17 @@
+Name of the student : Mandrila laskar 
+Class Roll of the student : 78 
+Stream of the student : CSE 
+Your Student ID is : CSE2278
+
+Marks obtained in Math is : 98 
+Marks obtained in Python is : 85 
+Marks obtained in Physics is : 99 
+Marks obtained in Chemistry is : 5 
+Marks obtained in Biology is : 41 
+Marks obtained in English is : 46 
+
+You have got 374 in total with 62%
+Performance: AVERAGE. 
+Status: PASSED. 
+Grade: D. 
+Remarks: Work hard.

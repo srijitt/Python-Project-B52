@@ -1,0 +1,16 @@
+Name of the student : Srijit chakraborty 
+Class Roll of the student : 52 
+Stream of the student : CSE 
+Your Student ID is : CSE2252
+
+Marks obtained in Math is : 97 
+Marks obtained in Python is : 98 
+Marks obtained in Physics is : 85 
+Marks obtained in Chemistry is : 78 
+Marks obtained in Biology is : 98 
+Marks obtained in English is : 99 
+
+You have got 555 in total with 92%
+Performance: OUTSTANDING. 
+Status: PASSED. 
+Grade: A.
